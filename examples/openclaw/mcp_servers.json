@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "legal-query": {
+      "url": "https://xmqjglht.top/api/claw/v1",
+      "headers": {
+        "X-API-Key": "xmqj_u1_你的Key"
+      },
+      "type": "openclaw"
+    }
+  }
+}
