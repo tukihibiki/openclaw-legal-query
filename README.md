@@ -30,8 +30,9 @@
 ### 1️⃣ 获取 API Key
 
 1. 下载 **[析芒全迹 APP](https://xmqj.top/download.html)** 并注册登录
-2. 进入「我的 → AI 智能查询」— 点击「立即开启」
-3. 复制生成的 API Key（格式：`xmqj_u1_xxxxxxxx...`）
+2. 在「我的」页面完成 **专业人员证件认证**
+3. 进入「我的 → AI 智能查询」— 点击「立即开启」
+4. 复制生成的 API Key（格式：`xmqj_u1_xxxxxxxx...`）
 
 > 💡 新用户注册即送免费查询额度，可直接体验。
 
@@ -234,7 +235,7 @@ func main() {
 <details>
 <summary>如何获取 API Key？</summary>
 
-下载 **析芒全迹 APP**（[xmqj.top](https://xmqj.top)），注册登录后进入「我的 → AI 智能查询」即可生成。每个账号可生成多个 Key 用于不同 AI 助手。
+下载 **析芒全迹 APP**（[xmqj.top](https://xmqj.top)），注册登录后完成 **专业人员证件认证**，然后进入「我的 → AI 智能查询」即可生成。每个账号可生成多个 Key 用于不同 AI 助手。
 </details>
 
 <details>
